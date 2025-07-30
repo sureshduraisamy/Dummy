@@ -1,0 +1,16 @@
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\net5.0\SampleConsoleApplication.exe
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\net5.0\SampleConsoleApplication.deps.json
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\net5.0\SampleConsoleApplication.runtimeconfig.json
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\net5.0\SampleConsoleApplication.runtimeconfig.dev.json
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\net5.0\SampleConsoleApplication.dll
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\net5.0\ref\SampleConsoleApplication.dll
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\net5.0\SampleConsoleApplication.pdb
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.AssemblyInfo.cs
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.dll
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\ref\SampleConsoleApplication.dll
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.pdb
+C:\Users\Anaiyaan\source\repos\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.genruntimeconfig.cache
