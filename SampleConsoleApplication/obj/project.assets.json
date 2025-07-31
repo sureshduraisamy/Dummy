@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anaiyaan\\source\\repos\\SampleConsoleApplication\\SampleConsoleApplication\\SampleConsoleApplication.csproj",
+      "projectUniqueName": "C:\\Users\\Anaiyaan\\Source\\Repos\\sureshduraisamy\\Dummy\\SampleConsoleApplication\\SampleConsoleApplication.csproj",
       "projectName": "SampleConsoleApplication",
-      "projectPath": "C:\\Users\\Anaiyaan\\source\\repos\\SampleConsoleApplication\\SampleConsoleApplication\\SampleConsoleApplication.csproj",
+      "projectPath": "C:\\Users\\Anaiyaan\\Source\\Repos\\sureshduraisamy\\Dummy\\SampleConsoleApplication\\SampleConsoleApplication.csproj",
       "packagesPath": "C:\\Users\\Anaiyaan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anaiyaan\\source\\repos\\SampleConsoleApplication\\SampleConsoleApplication\\obj\\",
+      "outputPath": "C:\\Users\\Anaiyaan\\Source\\Repos\\sureshduraisamy\\Dummy\\SampleConsoleApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
